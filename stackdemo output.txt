@@ -1,0 +1,12 @@
+10 pushed into stack
+20 pushed into stack
+30 pushed into stack
+40 pushed into stack
+50 pushed into stack
+Stack elements are:
+50
+40
+30
+20
+10
+Exception: Stack Overflow

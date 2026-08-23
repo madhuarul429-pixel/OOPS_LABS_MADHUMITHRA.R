@@ -1,0 +1,12 @@
+===== AREA OF DIFFERENT SHAPES =====
+
+Enter length of rectangle: 10
+Enter breadth of rectangle: 5
+Area of Rectangle = 50
+
+Enter base of triangle: 10
+Enter height of triangle: 8
+Area of Triangle = 40.0
+
+Enter radius of circle: 7
+Area of Circle = 153.86

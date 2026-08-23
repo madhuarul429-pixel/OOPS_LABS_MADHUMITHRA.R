@@ -1,0 +1,14 @@
+Wrapper Class Values:
+Integer   : 10
+Float     : 25.5
+Double    : 45.75
+Character : A
+Boolean   : true
+String    : Java
+
+After Unboxing:
+int     : 10
+float   : 25.5
+double  : 45.75
+char    : A
+boolean : true

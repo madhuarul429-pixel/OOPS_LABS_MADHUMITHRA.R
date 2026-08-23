@@ -1,0 +1,3 @@
+Generated Random Number: 24
+Number is Even
+Square of 24 = 576

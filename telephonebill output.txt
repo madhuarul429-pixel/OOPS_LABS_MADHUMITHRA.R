@@ -1,0 +1,15 @@
+Enter Customer Number: 1001
+Enter Customer Name: Madhu
+Enter Previous Month Call Duration: 100
+Enter Current Month Call Duration: 350
+Enter Connection Type (prepaid/postpaid): prepaid
+
+========== TELEPHONE BILL ==========
+Customer Number : 1001
+Customer Name   : Madhu
+Connection Type : prepaid
+Previous Minutes: 100
+Current Minutes : 350
+Used Minutes    : 250
+Total Bill      : Rs. 550.00
+====================================

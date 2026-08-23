@@ -1,0 +1,25 @@
+STRING OPERATIONS USING ARRAYLIST
+
+Enter string to append: Apple
+String added successfully.
+Enter another string to append: Banana
+String added successfully.
+Enter another string to append: Mango
+String added successfully.
+
+Current ArrayList: [Apple, Banana, Mango]
+
+Enter index for insertion: 1
+Enter string to insert: Orange
+String inserted successfully.
+ArrayList after insertion: [Apple, Orange, Banana, Mango]
+
+Enter string to search: Banana
+String found: Banana
+
+Enter starting letter: A
+Strings starting with 'A':
+Apple
+
+Enter a string to convert into ArrayList: Java Python C
+Converted ArrayList: [Java, Python, C]

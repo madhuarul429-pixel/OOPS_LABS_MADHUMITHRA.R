@@ -1,0 +1,27 @@
+===== EMPLOYEE PAY SLIP =====
+
+Enter Professor Details
+Enter Employee Name: Ravi
+Enter Employee ID: P101
+Enter Address: Chennai
+Enter Mail ID: ravi@gmail.com
+Enter Mobile Number: 9876543210
+Enter Basic Pay: 50000
+
+Employee Designation: Professor
+
+========== PAY SLIP ==========
+Employee Name : Ravi
+Employee ID   : P101
+Address       : Chennai
+Mail ID       : ravi@gmail.com
+Mobile No     : 9876543210
+------------------------------
+Basic Pay     : 50000.00
+DA (90%)      : 45000.00
+HRA (12%)     : 6000.00
+PF (14%)      : 7000.00
+Staff Fund    : 100.00
+Gross Salary  : 101000.00
+Net Salary    : 93900.00
+==============================
